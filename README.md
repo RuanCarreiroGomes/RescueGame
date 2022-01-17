@@ -2,6 +2,9 @@
 
 Game desenvolvido 16/01/2022 durante o bootcamp da MRV na plataforma da Digital Innovation One em uma aula prática ministrada pelo instrutor Denilson Bonatti, onde utilizamos as tecnologias HTML, CSS, JavaScript e JQuery para as colisões na aplicação. O jogo tem como objetivo resgatar o máximo de "amigos" e obter pontuações a cada partida destruindo os inimigos do jogo. No momento, o game atende apenas às telas dos computadores.
 
+## Imagens do site:
+
+![App Screenshot](imgs/Capturar.PNG)
 
 ## Badges:
 
